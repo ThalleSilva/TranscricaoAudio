@@ -16,3 +16,5 @@ Observação Importante:
 Para executar o projeto, certifique-se de que o arquivo arquivo.ui está na mesma pasta que o executável gerado. Este arquivo é crucial para a interface gráfica e sem ele, a aplicação não funcionará corretamente.
 
 Nota: Infelizmente, o arquivo convertido para .exe não está disponível aqui devido à limitação de tamanho de 25 MB.
+
+Nota-2: Necessário a instalação desse arquivo: https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/.
